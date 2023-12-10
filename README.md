@@ -1,4 +1,4 @@
-<h1 align="center">Dom (DOOMCE) <sup> <img src="https://komarev.com/ghpvc/?username=doomce&label=Profile%20views&color=green&style=flat" alt="doomce" /> </sup></h1>
+<h1 align="center">Dom (DOOMCE) <sup> <img src="https://komarev.com/ghpvc/?username=doomce&label=STALKERS%20&color=green&style=flat" alt="doomce" /> </sup></h1>
 <h3 align="center">A student who is interested in programming projects during leisure.</h3>
 
 
