@@ -1,5 +1,15 @@
-### Hi there 👋
+<h1 align="center">Dom (DOOMCE) <sup> <img src="https://komarev.com/ghpvc/?username=doomce&label=Profile%20views&color=green&style=flat" alt="doomce" /> </sup></h1>
+<h3 align="center">A student who is interested in programming projects during leisure.</h3>
 
+
+
+- 🔭 I’m currently working on **Pursuit**.
+
+- 🤝 I provide assistance for **TrustGDKP** project. 
+
+- 👨‍💻 All of my projects are available at [doomce.github.io](doomce.github.io) or github repositories.
+
+  
 <!--
 **Doomce/Doomce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
