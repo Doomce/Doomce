@@ -3,11 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Pursuit**.
+- 🔭 I’m currently working on **Pursuit - leisure app**.
 
-- 🤝 I provide assistance for **TrustGDKP** project. 
-
-- 👨‍💻 All of my projects are available at [doomce.github.io](doomce.github.io) or github repositories.
+- 👨‍💻 All of my projects are available at public github repositories.
 
   
 <!--
