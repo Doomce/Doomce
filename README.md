@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Pursuit - leisure app**.
+- 🔭 I’m currently working on **Social responsible business platform**.
 
 - 👨‍💻 All of my projects are available at public github repositories.
 
